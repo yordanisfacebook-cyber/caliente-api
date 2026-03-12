@@ -1,0 +1,10 @@
+{
+  "name": "caliente-api",
+  "version": "1.0.0",
+  "description": "API que procesa HTML de Caliente.mx para Google Sheets",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
